@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2025/07/29 11:34:34.000.771,=C:\Users\mauri\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/07/29 11:37:50.000.809,=C:\Users\mauri\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/07/29 11:42:59.000.597,=C:\Users\mauri\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/08/27 08:43:36.000.639,=C:\Users\mauri\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/09/03 13:57:11.273,=C:\Users\mauri\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/09/03 14:00:51.298,C:\Users\mauri\Documents\Embarcadero\Studio\Projects\Tracar_Rota\Unit1.pas=C:\Users\mauri\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/09/03 14:00:51.298,C:\Users\mauri\Documents\Embarcadero\Studio\Projects\Tracar_Rota\Unit1.dfm=C:\Users\mauri\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2025/09/03 14:00:53.273,C:\Users\mauri\Documents\Embarcadero\Studio\Projects\Tracar_Rota\Project1.dproj=C:\Users\mauri\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
